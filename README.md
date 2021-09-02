@@ -1,14 +1,12 @@
 ### Hi there 👋 , I am Surya Dharamgudi
 
 
-- 🔭 I’m currently working on 
+
 - 🌱 I’m currently learning ANDROID DEVELOPMENT
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...OPEN SOURCE
 - 💬 Ask me about ...DATA STRUCTURE AND ALGORITHM , ANDROID RELATED STUFF
 - 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/suryablaster?style=social)
 - 😄 Pronouns: Bro/He
-- ⚡ Fun fact: tweetholic
 
 <!--
 **suryablaster/suryablaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
