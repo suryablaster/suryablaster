@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...OPEN SOURCE
 - 💬 Ask me about ...DATA STRUCTURE AND ALGORITHM , ANDROID RELATED STUFF
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...Bro/He
+- 📫 How to reach me: https://img.shields.io/twitter/follow/suryablaster?style=social
+- 😄 Pronouns: Bro/He
 - ⚡ Fun fact: ...
 
 <!--
