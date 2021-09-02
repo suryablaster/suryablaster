@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with ...OPEN SOURCE
 - 💬 Ask me about ...DATA STRUCTURE AND ALGORITHM , ANDROID RELATED STUFF
 - 📫 How to reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/suryablaster?style=social)
+-                     ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=suryablaster)
 - 😄 Pronouns: Bro/He
 
 <!--
