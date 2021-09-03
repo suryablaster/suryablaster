@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/suryablaster/suryablaster/blob/main/Pink%20Blue%20and%20Black%20Gradient%20Twitch%20Banner.png"/></a>
+
 <h1 align="center">Hi 👋, I'm Surya Dharamgudi</h1>
 <h3 align="center">A passionate android developer from India</h3>
 
