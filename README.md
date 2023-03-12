@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/suryablaster" target="blank"><img src="https://img.shields.io/twitter/follow/suryablaster?logo=twitter&style=for-the-badge" alt="suryablaster" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Sprint boot **
 
 - 🤝 I’m looking for help with **Open Source**
 
